@@ -2,17 +2,10 @@
 
 body {
 
-
+  font-family: Lato;
   background: #000;
-  color: #ddd;
+  color: rgb(190, 38, 38);
   text-align: center;
 
 
-}
-
-h1 {
-
-  font-weight: 400;
-
-  
 }
